@@ -1,0 +1,18 @@
+body {
+	font-family: "Roboto", sans-serif;
+	background-color: white;
+	max-width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+.banner {
+	font-size: 16px;
+}
+
+.story-copy {
+	background-color: white;
+}
+
+
